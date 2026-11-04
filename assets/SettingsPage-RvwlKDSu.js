@@ -1,0 +1,1 @@
+import{j as t}from"./index-UjJjdr2O.js";import{S as e}from"./SetupForm-c_VBueda.js";const r=()=>t.jsx("div",{className:"page active",id:"page-settings",children:t.jsx(e,{isSettings:!0,onConnected:()=>{}})});export{r as default};
