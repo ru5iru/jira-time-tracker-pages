@@ -1,0 +1,1 @@
+import{u as t,j as s}from"./index-CqXfe-3I.js";import{S as a}from"./SetupForm-DG8iGHvo.js";const n=()=>{const e=t();return s.jsx(a,{isSettings:!1,onConnected:()=>e("/issues",{replace:!0})})};export{n as default};
