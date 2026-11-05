@@ -1,0 +1,1 @@
+import{j as t}from"./index-BZoGuMim.js";import{S as e}from"./SetupForm-NucGErW4.js";const r=()=>t.jsx("div",{className:"page active",id:"page-settings",children:t.jsx(e,{isSettings:!0,onConnected:()=>{}})});export{r as default};
